@@ -1,0 +1,7 @@
+[servers]
+98.70.96.164
+4.213.66.85
+
+[servers:vars]
+ansible_user=adminuser
+ansible_ssh_private_key_file=~/.ssh/azure_vm_key
