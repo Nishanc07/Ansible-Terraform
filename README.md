@@ -60,4 +60,3 @@ ansible-playbook -i inventory playbook.yaml
 # configuration management.The combination of Terraform for infrastructure as code (IaC) and Ansible for configuration
 
 # management provides a powerful way to automate and manage cloud resources effectively.
-# Ansible-Terraform
