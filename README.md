@@ -55,8 +55,8 @@ ansible-playbook -i inventory playbook.yaml
 
 ```
 
-# This project demonstrates how to use Terraform for provisioning Azure infrastructure and Ansible for
+#### This project demonstrates how to use Terraform for provisioning Azure infrastructure and Ansible for
 
-# configuration management.The combination of Terraform for infrastructure as code (IaC) and Ansible for configuration
+#### configuration management.The combination of Terraform for infrastructure as code (IaC) and Ansible for configuration
 
-# management provides a powerful way to automate and manage cloud resources effectively.
+#### management provides a powerful way to automate and manage cloud resources effectively.
